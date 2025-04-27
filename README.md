@@ -1,6 +1,8 @@
 # UI Blur Shader for Unity URP
 
 This repository provides a UI Blur Shader designed for Unity's Universal Render Pipeline (URP) **UNTESTED ON HDRP**. It allows you to apply dynamic blur effects to UI elements, with customizable parameters such as blur strength, kernel size, and alpha blending. Follow the steps below to integrate it into your project.
+This shader allows you to apply **different blur effects to individual UI elements** simultaneously in Unity URP. Perfect for creating depth in menus or highlighting specific components.
+Is WAY more demanding, if you use to much objects, so, for a global solution, consider [Unified Universal Blur](https://github.com/lukakldiashvili/Unified-Universal-Blur).
 
 ---
 
