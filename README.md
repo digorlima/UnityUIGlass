@@ -42,3 +42,4 @@ Customize the blur effect using the following parameters in the material or UI e
 - Element Color: (0, 0, 0, 0.15)
 - Size: 5.0
 - Strength: 5.0
+- Downsample: 1.0
